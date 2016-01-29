@@ -1,0 +1,16 @@
+configs=file:d:\\workspace\\top-analysis\\config\\top-report-api2.xml
+input=d:\\testlog
+output=d:\\testlog\\output
+workerNum=30
+splitWorkerNum=5
+maxFileSize=2500
+mailto=fangweng@taobao.com
+doJobHourOfDay=0
+nodeType=master
+masterAddress=10.13.60.86
+masterPort=7650
+unzipCommand=d:\\Program Files\\WinRAR\\winrar
+matchFileName=top56.cm3.top-access.log.2009-12-20.tgz
+jobFileFrom=machine
+resourcePattern=http://$job$/top/services/logPull?command=pulllog&size=3000
+jobs=10.0.121.111

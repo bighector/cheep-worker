@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/src/java/com/taobao/top/analysis/jobmanager
+END
+DefaultJobManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/jobmanager/DefaultJobManager.java
+END
+DefaultReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/jobmanager/DefaultReportManager.java
+END
+IRuleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/jobmanager/IRuleManager.java
+END
+IJobManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/jobmanager/IJobManager.java
+END
+IReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/jobmanager/IReportManager.java
+END
+DefaultAnalysisManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/src/java/com/taobao/top/analysis/jobmanager/DefaultAnalysisManager.java
+END
+IManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/jobmanager/IManager.java
+END
+IAnalysisManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/src/java/com/taobao/top/analysis/jobmanager/IAnalysisManager.java
+END
+DefaultRuleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/jobmanager/DefaultRuleManager.java
+END

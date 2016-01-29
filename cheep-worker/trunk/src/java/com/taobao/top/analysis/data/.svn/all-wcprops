@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/Rule.java
+END
+DistributeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/DistributeJob.java
+END
+Alias.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/Alias.java
+END
+EntryValueOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/EntryValueOperator.java
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/Report.java
+END
+ReportEntryValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/ReportEntryValueType.java
+END
+ReportEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/ReportEntry.java
+END
+MergedJobResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/MergedJobResult.java
+END
+JobResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/JobResource.java
+END
+ReportAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/java/com/taobao/top/analysis/data/ReportAlert.java
+END

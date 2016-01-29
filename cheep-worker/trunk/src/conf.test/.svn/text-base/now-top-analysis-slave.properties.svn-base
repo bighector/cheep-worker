@@ -1,0 +1,5 @@
+nodeType=slave
+masterAddress=localhost
+masterPort=7777
+jobFileFrom=machine
+maxTransJobCount=2

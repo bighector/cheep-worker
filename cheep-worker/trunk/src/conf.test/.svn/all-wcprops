@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/src/conf.test
+END
+top-analysis-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/conf.test/top-analysis-test.properties
+END
+top-analysis.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/conf.test/top-analysis.properties
+END
+now-top-analysis.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/src/conf.test/now-top-analysis.properties
+END
+now-top-analysis-slave.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/src/conf.test/now-top-analysis-slave.properties
+END
